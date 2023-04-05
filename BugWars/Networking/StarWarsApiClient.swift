@@ -7,6 +7,8 @@
 
 import Foundation
 
+/// Provides a wrapper that handles fetching people, vehicles, and starships from the Star Wars API.
+/// https://swapi.dev
 actor StarWarsAPIClient {
     enum Endpoint {
         static let people = "people?format=wookiee"

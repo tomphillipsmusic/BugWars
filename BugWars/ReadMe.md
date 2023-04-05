@@ -17,6 +17,13 @@ Unfortunately the app is experiencing a number of bugs and it is up to you as th
 2. Rubber Duck Programming
 3. Setting breakpoints and using Xcode's debugger (LLDB)
 
+## Resources 
+Text Resource - Beginner - https://www.appypie.com/debugging-with-xcode-ios-how-to
+Xcode Debugging Documentation - https://developer.apple.com/documentation/xcode/stepping-through-code-and-inspecting-variables-to-isolate-bugs
+Video Resource - Basic Debugging - https://www.youtube.com/watch?v=qPWfOkHcKdU
+Video Resource - Debugging in Xcode Tips & Tricks - https://www.youtube.com/watch?v=ZAqnJQn7xp4
+LLDB Documentation - https://lldb.llvm.org
+
 # Bugs
 
 ##1. Starship Searchbar Not Displaying Results
@@ -61,11 +68,3 @@ Steps to Reproduce:
 Expected Result: A list of Star Wars characters names are displayed
 
 Acutal Result: No names are displayed
-
-#Resources: 
-
-Text Resource - Beginner - https://www.appypie.com/debugging-with-xcode-ios-how-to
-Xcode Debugging Documentation - https://developer.apple.com/documentation/xcode/stepping-through-code-and-inspecting-variables-to-isolate-bugs
-Video Resource - Basic Debugging - https://www.youtube.com/watch?v=qPWfOkHcKdU
-Video Resource - Debugging in Xcode Tips & Tricks - https://www.youtube.com/watch?v=ZAqnJQn7xp4
-LLDB Documentation - https://lldb.llvm.org
