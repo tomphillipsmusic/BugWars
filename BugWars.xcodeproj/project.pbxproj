@@ -46,7 +46,6 @@
 		3E28122529D5CBBD0057E813 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3E28122C29D5CCC20057E813 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		3E28122F29D5D43F0057E813 /* PeopleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleViewModel.swift; sourceTree = "<group>"; };
-		3E28123129D603800057E813 /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 		3E28123229D603AF0057E813 /* StarWarsApiClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsApiClient.swift; sourceTree = "<group>"; };
 		3E28123529D603D30057E813 /* People.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = People.swift; sourceTree = "<group>"; };
 		3EC7D3F329DDB7C40080590C /* Age.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age.swift; sourceTree = "<group>"; };
@@ -98,7 +97,6 @@
 				3E1BB7E029DDB73E00B94205 /* ViewModel */,
 				3E28123729D605030057E813 /* Networking */,
 				3E28123429D603CB0057E813 /* Model */,
-				3E28123129D603800057E813 /* ReadMe.md */,
 				3E28122229D5CBBD0057E813 /* Assets.xcassets */,
 				3E28122429D5CBBD0057E813 /* Preview Content */,
 			);
