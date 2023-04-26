@@ -25,6 +25,7 @@
 		3E28123029D5D43F0057E813 /* PeopleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E28122F29D5D43F0057E813 /* PeopleViewModel.swift */; };
 		3E28123329D603AF0057E813 /* StarWarsApiClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E28123229D603AF0057E813 /* StarWarsApiClient.swift */; };
 		3E28123629D603D30057E813 /* People.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E28123529D603D30057E813 /* People.swift */; };
+		3E2B498029F9690000260B88 /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = 3E2B497F29F9690000260B88 /* ReadMe.md */; };
 		3EC7D3F429DDB7C40080590C /* Age.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC7D3F329DDB7C40080590C /* Age.swift */; };
 /* End PBXBuildFile section */
 
@@ -48,6 +49,7 @@
 		3E28122F29D5D43F0057E813 /* PeopleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleViewModel.swift; sourceTree = "<group>"; };
 		3E28123229D603AF0057E813 /* StarWarsApiClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsApiClient.swift; sourceTree = "<group>"; };
 		3E28123529D603D30057E813 /* People.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = People.swift; sourceTree = "<group>"; };
+		3E2B497F29F9690000260B88 /* ReadMe.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = SOURCE_ROOT; };
 		3EC7D3F329DDB7C40080590C /* Age.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -92,6 +94,7 @@
 		3E28121D29D5CBBC0057E813 /* BugWars */ = {
 			isa = PBXGroup;
 			children = (
+				3E2B497F29F9690000260B88 /* ReadMe.md */,
 				3E28121E29D5CBBC0057E813 /* BugWarsApp.swift */,
 				3E28123829D6051C0057E813 /* Views */,
 				3E1BB7E029DDB73E00B94205 /* ViewModel */,
@@ -212,6 +215,7 @@
 			files = (
 				3E28122629D5CBBD0057E813 /* Preview Assets.xcassets in Resources */,
 				3E28122329D5CBBD0057E813 /* Assets.xcassets in Resources */,
+				3E2B498029F9690000260B88 /* ReadMe.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
